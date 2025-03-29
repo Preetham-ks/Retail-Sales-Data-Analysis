@@ -36,4 +36,4 @@
 |----------|---------------|-----------|  
 | 🐘 PostgreSQL | 📊 Power BI | 📥 Excel |  
 
-📌 *Inspired by [Data Professional’s YouTube Tutorial](https://youtube.com/...)*  
+📌 *Inspired by [Data Professional’s YouTube Tutorial](https://www.youtube.com/watch?v=y_GT2GHHQUc)*  
